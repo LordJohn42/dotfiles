@@ -154,8 +154,8 @@ if [ -f ~/.zsh_aliases.local ]; then
   echo ".zsh_aliases.local is deprecated. Make entries in files in ~/.zshrc.d instead."
 fi
 
-alias weather="curl -4 http://wttr.in/Moscow"
-alias ls="exa"
+alias weather="curl -4 http://wttr.in/Novosibirsk"
+alias ls="exa "
 alias lc='colorls -lA --sd'
 alias l='colorls'
 
